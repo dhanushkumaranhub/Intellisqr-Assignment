@@ -1,7 +1,7 @@
   Server-side (Node.js and Express)
 
 
-1. Install necessary packages:
+ Install necessary packages:
 
 npm init -y
 npm install express mongoose body-parser bcrypt cors jsonwebtoken
